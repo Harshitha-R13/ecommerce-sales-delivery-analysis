@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,ListPrice
+1,Laptop,Electronics,750
+2,Monitor,Electronics,220
+3,Keyboard,Accessories,45
+4,Mouse,Accessories,25
+5,Desk,Furniture,180
+6,Chair,Furniture,140
+7,Headphones,Electronics,65
+8,Webcam,Accessories,55
+9,Lamp,Home,30
+10,Notebook,Office,8
+11,Backpack,Office,48
+12,Storage Box,Home,22
